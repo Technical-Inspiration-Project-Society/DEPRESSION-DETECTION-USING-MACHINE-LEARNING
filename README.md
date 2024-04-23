@@ -31,3 +31,7 @@ Model Deployment: Integrate the best-performing NLP model into the depression de
 ## Login Credentials
 Username : admin
 Passward : admin
+
+# Connect
+For accessing this project email us on tipsrndprojects@gmail.com
+
